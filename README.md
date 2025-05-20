@@ -1,22 +1,65 @@
+<!-- Profile Intro Gif -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/narva-siddhartha-4b04bb211/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="mailto:narvasiddhartha@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
+  <a href="https://drive.google.com/file/d/1MHcOPyfx8rzswFOUZSK2ukVuCa-2aGH3/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Resume" />
+  </a>
+</div>
+
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=narvasiddhartha.narvasiddhartha" />
+</div>
+
+<!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Narva Siddhartha</h1>
 <h3 align="center">Driven AI Developer at the Nexus of Innovation</h3>
 
-- 🌱 I’m currently learning **AI,Deeplearning**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/narva-siddhartha-4b04bb211/](https://www.linkedin.com/in/narva-siddhartha-4b04bb211/)
-
-- 💬 Ask me about **AI,MachineLearning**
-
-- 📫 How to reach me **narvasiddhartha@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B49rxLyRG3KVGp9Rcv_yzjCc3y60I9DE/view?usp=sharing](https://drive.google.com/file/d/1MHcOPyfx8rzswFOUZSK2ukVuCa-2aGH3/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+<!-- About Me -->
+<h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narvasiddhartha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narvasiddhartha" height="30" width="40" /></a>
+- 🌱 I’m currently learning <strong>AI, Deep Learning</strong><br>
+- 💬 Ask me about <strong>AI, Machine Learning</strong><br>
+- 👨‍💻 All of my projects are available on <a href="https://www.linkedin.com/in/narva-siddhartha-4b04bb211/" target="_blank">LinkedIn</a><br>
+- 📫 How to reach me: <a href="mailto:narvasiddhartha@gmail.com">narvasiddhartha@gmail.com</a><br>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MHcOPyfx8rzswFOUZSK2ukVuCa-2aGH3/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Languages and Tools -->
+<h3 align="left">🛠 Languages and Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40" alt="Heroku" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narvasiddhartha&show_icons=true&locale=en&layout=compact" alt="narvasiddhartha" /></p>
+<!-- GitHub Stats -->
+<h3 align="left">🔥 My Stats:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=narvasiddhartha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narvasiddhartha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
