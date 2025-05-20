@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **narvasiddhartha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B49rxLyRG3KVGp9Rcv_yzjCc3y60I9DE/view?usp=sharing](https://drive.google.com/file/d/1B49rxLyRG3KVGp9Rcv_yzjCc3y60I9DE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B49rxLyRG3KVGp9Rcv_yzjCc3y60I9DE/view?usp=sharing](https://drive.google.com/file/d/1MHcOPyfx8rzswFOUZSK2ukVuCa-2aGH3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
